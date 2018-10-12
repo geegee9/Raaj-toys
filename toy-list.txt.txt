@@ -1,3 +1,4 @@
-1.games
-2.cars
-3.dolls
+1.games - 5 cedis
+2.cars - 40,000 cedis
+3.dolls -300 cedis
+4.Ferrari -600,000 dollars
